@@ -1,4 +1,3 @@
-
 # Resume Categorization  
 
 This project focuses on automating the categorization of resumes using Natural Language Processing (NLP) and machine learning techniques. The goal is to analyze resume data and classify resumes into their respective job categories efficiently.  
@@ -126,6 +125,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For more details and hands-on usage, refer to the main [notebook](https://github.com/raselmeya94/Resume_Categorization/blob/main/resume_categorization_notebook.ipynb).  
 
----  
-
-This version provides a clear and concise structure for your GitHub repository's `README.md`, tailored to an audience that may want to contribute or understand the implementation.
